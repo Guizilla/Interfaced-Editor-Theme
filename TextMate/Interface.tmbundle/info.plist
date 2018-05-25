@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>thvmvyynpbqr@vpybhq.pbz</string>
+	<key>contactName</key>
+	<string>Guillaume COQUARD</string>
+	<key>description</key>
+	<string>Some helpful themes.</string>
+	<key>name</key>
+	<string>Interface</string>
+	<key>source</key>
+	<dict>
+		<key>method</key>
+		<string>git</string>
+		<key>url</key>
+		<string>git@github.com:Fuizilla/interface.tmbundle.git</string>
+	</dict>
+	<key>uuid</key>
+	<string>B386ED24-31F1-4552-9CEA-32FA72FEE770</string>
+</dict>
+</plist>
