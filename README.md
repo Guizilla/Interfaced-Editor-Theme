@@ -24,7 +24,7 @@ These themes are fully supported by TextMate as being native-formated.
 
 Themes for Atom are not yet available.
 
-You can refer to [actual themes](http://example.com/ "GZL-Syntax - Syntax Theme for Atom").
+You can refer to [actual themes](https://github.com/Guizilla/gzl-syntax "GZL-Syntax - Syntax Theme for Atom").
 
 	CONTENT & DETAILS ARE COMING
 
